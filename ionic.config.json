@@ -1,5 +1,7 @@
 {
   "name": "sound",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
